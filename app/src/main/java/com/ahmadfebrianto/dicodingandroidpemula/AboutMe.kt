@@ -1,4 +1,4 @@
-package com.example.dicodingandroid1
+package com.ahmadfebrianto.dicodingandroidpemula
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

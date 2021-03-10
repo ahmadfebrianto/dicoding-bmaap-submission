@@ -1,4 +1,4 @@
-package com.example.dicodingandroid1
+package com.ahmadfebrianto.dicodingandroidpemula
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

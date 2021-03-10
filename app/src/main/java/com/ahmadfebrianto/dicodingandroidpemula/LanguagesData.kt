@@ -1,4 +1,4 @@
-package com.example.dicodingandroid1
+package com.ahmadfebrianto.dicodingandroidpemula
 
 object LanguagesData {
     private val languageNames = arrayOf(

@@ -1,4 +1,4 @@
-package com.example.dicodingandroid1
+package com.ahmadfebrianto.dicodingandroidpemula
 
 import android.content.Intent
 import android.view.LayoutInflater

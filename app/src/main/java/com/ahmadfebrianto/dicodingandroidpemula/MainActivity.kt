@@ -1,11 +1,10 @@
-package com.example.dicodingandroid1
+package com.ahmadfebrianto.dicodingandroidpemula
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
